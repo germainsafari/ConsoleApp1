@@ -1,4 +1,5 @@
 [Serializable]
+
 class Schedule
 {
     public List<OnCallDuty> duties = new List<OnCallDuty>();
