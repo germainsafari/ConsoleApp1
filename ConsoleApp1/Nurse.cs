@@ -1,4 +1,5 @@
 [Serializable]
+
 class Nurse : Employee
 {
     public List<OnCallDuty> onCallDuty = new List<OnCallDuty>();
